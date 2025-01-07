@@ -6,6 +6,7 @@ const b = [1,2,3] //array
 const c = null //null
 const d = undefined //undefined
 const boolean = false //boolean 
+ //not a number
 
 console.log(typeof x)
 console.log(typeof y)
